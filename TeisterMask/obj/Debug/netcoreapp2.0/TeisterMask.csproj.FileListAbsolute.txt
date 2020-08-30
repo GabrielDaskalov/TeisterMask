@@ -1,0 +1,37 @@
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\Galin\Desktop\New folder (2)\CSharp-Skeleton\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.deps.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.dll
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\bin\Debug\netcoreapp2.0\TeisterMask.pdb
+C:\Users\gabri\OneDrive\Desktop\WebBasics\TeisterMask\obj\Debug\netcoreapp2.0\TeisterMask.genruntimeconfig.cache
